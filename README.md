@@ -31,7 +31,7 @@ Every project here was taken end to end. Problem definition, working build, comp
 
 **I will recommend against spending.** The disruption platform's final recommendation to the client was not to fund the integration. Fund an eight week pilot across three stations first, because the entire business case rests on one assumption nobody has measured. The software costs around 140 dollars a year to run. The risk was never the software.
 
-## Nine weeks ago I did not know what a commit was
+## Nine years of delivery, nine weeks of building
 
 I spent nine years running delivery in technology and operations before any of this. In summer 2026 I started an intensive AI consulting programme, and the repositories here are the full record of it, including the early ones named things like `Day-1` and `Day-3`. I have left them exactly as they were.
 
