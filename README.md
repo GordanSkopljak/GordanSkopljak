@@ -1,6 +1,6 @@
 # Gordan Skopljak
 
-I build AI automation that holds up in production, and audit it against EU regulation.
+I build AI automation designed for production, and audit it against EU regulation.
 
 Based in Hamburg. n8n, LangChain, Python.
 
@@ -10,13 +10,13 @@ Based in Hamburg. n8n, LangChain, Python.
 
 I work in the gap between the people who want an AI system and the people who build it. That means taking a problem from a first conversation through to a working system, then answering the questions that decide whether it ships: what does it cost, what breaks, is it legal, and is it actually worth doing.
 
-Every project here was taken end to end. Problem definition, working build, compliance assessment, business case, and a recommendation the client could act on.
+My lead project was taken end to end. Problem definition, working build, compliance assessment, business case, and a recommendation the client could act on.
 
 ## Start here
 
 | Project | What it is |
 |---|---|
-| [airline-disruption-care-platform](https://github.com/GordanSkopljak/Ground_operation_disruptions) | Three connected n8n workflows for overnight flight cancellations. Costs the night, ranks hotel options, captures what was agreed on the phone. Built against 3,305 real care events from 10,919 US DOT cancellations. Ships with EU AI Act classification, GDPR documentation, a DPIA, ROI with sensitivity analysis, and a written list of what it cannot do. |
+| [Airline disruption care platform](https://github.com/GordanSkopljak/Ground_operation_disruptions) | Three connected n8n workflows for overnight flight cancellations. Costs the night, ranks hotel options, captures what was agreed on the phone. Built against 3,305 real care events from 10,919 US DOT cancellations. Ships with EU AI Act classification, GDPR documentation, a DPIA, ROI with sensitivity analysis, and a written list of what it cannot do. |
 | [LLM evaluation pipeline](https://github.com/GordanSkopljak/lab-langsmith) | An OpenAI model extracts, an independent DeepSeek model judges. Four evaluation methods. When scores hit a ceiling I hardened the dataset rather than tuning the metric. |
 | [Gonelu (FreshPoint)](https://github.com/nevena-mi/Project2_FreshPoint) | Retrieval over a curated voice corpus, built by three people in a two day window. Two retrieval approaches compared, provider fallback so one outage cannot take the product down. |
 | [Podcast Studio](https://github.com/np8350-prog/Podcast-Studio) | Paste two article URLs, get a two voice podcast episode. It scrapes both articles, `gpt-4o-mini` writes a host and guest script, and OpenAI text to speech voices it, all behind a Gradio interface. Built by two people in the first weeks of the programme. |
@@ -27,11 +27,11 @@ Every project here was taken end to end. Problem definition, working build, comp
 
 **Compliance from the first design decision.** EU AI Act classification and GDPR are cheap when they shape the data flow and expensive when they are audited into a finished system. When a third workflow broke the privacy argument the first two rested on, I wrote a separate addendum arguing it on different grounds rather than quietly weakening the original pack.
 
-**Limitations are stated, not discovered.** Every repo here lists what does not work. A broken webhook, a simulated dispatch, an unverified cost assumption. If you find a problem I did not write down, tell me, because that is the one that matters.
+**Limitations are stated, not discovered.** Every project I owned lists what does not work. A broken webhook, a simulated dispatch, an unverified cost assumption. If you find a problem I did not write down, tell me, because that is the one that matters.
 
 **I will recommend against spending.** The disruption platform's final recommendation to the client was not to fund the integration. Fund an eight week pilot across three stations first, because the entire business case rests on one assumption nobody has measured. The software costs around 140 dollars a year to run. The risk was never the software.
 
-## Nine years of delivery, nine weeks of building
+## Nine years of delivery, three months of building
 
 I spent nine years running delivery in technology and operations before any of this. In summer 2026 I started an intensive AI consulting programme, and the repositories here are the full record of it, including the early ones named things like `Day-1` and `Day-3`. I have left them exactly as they were.
 
