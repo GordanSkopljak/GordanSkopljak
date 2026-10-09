@@ -31,9 +31,9 @@ My lead project was taken end to end. Problem definition, working build, complia
 
 **I will recommend against spending.** The disruption platform's final recommendation to the client was not to fund the integration. Fund an eight week pilot across three stations first, because the entire business case rests on one assumption nobody has measured. The software costs around 140 dollars a year to run. The risk was never the software.
 
-## Nine years of delivery, three months of building
+## 9+ years of delivery, building with AI since summer 2026
 
-I spent nine years running delivery in technology and operations before any of this. In summer 2026 I started an intensive AI consulting programme, and the repositories here are the full record of it, including the early ones named things like `Day-1` and `Day-3`. I have left them exactly as they were.
+I spent more than nine years running delivery in technology and operations before any of this. In summer 2026 I started an intensive AI consulting programme, and the repositories here are the full record of it, including the early ones named things like `Day-1` and `Day-3`. I have left them exactly as they were.
 
 What that record shows is not that I became a machine learning engineer. It shows that I can go from knowing nothing about a domain to shipping working systems in it, with the documentation a client would need, in a short time. That has been the job in every role I have held.
 
