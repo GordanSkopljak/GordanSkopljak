@@ -19,7 +19,7 @@ Every project here was taken end to end. Problem definition, working build, comp
 | [airline-disruption-care-platform](https://github.com/GordanSkopljak/airline-disruption-care-platform) | Three connected n8n workflows for overnight flight cancellations. Costs the night, ranks hotel options, captures what was agreed on the phone. Built against 3,305 real care events from 10,919 US DOT cancellations. Ships with EU AI Act classification, GDPR documentation, a DPIA, ROI with sensitivity analysis, and a written list of what it cannot do. |
 | [stups-suggestion-agent](https://github.com/GordanSkopljak/stups-suggestion-agent) | A scheduled agent that reads live weather, branches indoor or outdoor, pulls what is on in Hamburg tonight, and sends two suggestions to Telegram. No human in the loop from trigger to delivery. |
 | LLM evaluation pipeline | An OpenAI model extracts, an independent DeepSeek model judges. Four evaluation methods. When scores hit a ceiling I hardened the dataset rather than tuning the metric. |
-| Gonelu | Retrieval over a curated voice corpus, built by three people in a two day window. Two retrieval approaches compared, provider fallback so one outage cannot take the product down. |
+| [Gonelu (FreshPoint)](https://github.com/nevena-mi/Project2_FreshPoint) | Retrieval over a curated voice corpus, built by three people in a two day window. Two retrieval approaches compared, provider fallback so one outage cannot take the product down. |
 
 ## How I work
 
