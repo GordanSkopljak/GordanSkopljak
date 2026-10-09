@@ -19,6 +19,7 @@ Every project here was taken end to end. Problem definition, working build, comp
 | [airline-disruption-care-platform](https://github.com/GordanSkopljak/Ground_operation_disruptions) | Three connected n8n workflows for overnight flight cancellations. Costs the night, ranks hotel options, captures what was agreed on the phone. Built against 3,305 real care events from 10,919 US DOT cancellations. Ships with EU AI Act classification, GDPR documentation, a DPIA, ROI with sensitivity analysis, and a written list of what it cannot do. |
 | [LLM evaluation pipeline](https://github.com/GordanSkopljak/lab-langsmith) | An OpenAI model extracts, an independent DeepSeek model judges. Four evaluation methods. When scores hit a ceiling I hardened the dataset rather than tuning the metric. |
 | [Gonelu (FreshPoint)](https://github.com/nevena-mi/Project2_FreshPoint) | Retrieval over a curated voice corpus, built by three people in a two day window. Two retrieval approaches compared, provider fallback so one outage cannot take the product down. |
+| [Podcast Studio](https://github.com/np8350-prog/Podcast-Studio) | Paste two article URLs, get a two voice podcast episode. It scrapes both articles, `gpt-4o-mini` writes a host and guest script, and OpenAI text to speech voices it, all behind a Gradio interface. An early build from the first weeks of the programme. |
 
 ## How I work
 
