@@ -45,4 +45,4 @@ I do not train models and I am not an ML researcher. I connect models to a busin
 
 gordan.skopljak@gmail.com | [LinkedIn](https://www.linkedin.com/in/gordan-skopljak/)
 
-Open to AI automation and delivery roles in Germany.
+Open to AI implementation, automation and delivery roles in Germany and across the EU.
